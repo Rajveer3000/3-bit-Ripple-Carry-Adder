@@ -16,8 +16,7 @@ This hands-on implementation demonstrates how **complex arithmetic circuits can 
 
 ### Wiring Layout
 
-![Wiring](photo_2026-03-05_20-44-49(2).jpg)
-
+![Wiring](photo_2026-03-05_20-44-48%20(2).jpg)
 ## Project Highlights
 
 - 3-bit ripple carry adder
