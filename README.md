@@ -17,6 +17,25 @@ This hands-on implementation demonstrates how **complex arithmetic circuits can 
 ### Wiring Layout
 
 ![Wiring](photo_2026-03-05_20-44-48%20(2).jpg)
+
+## Simulation (NI Multisim)
+
+To verify the logic before building the hardware circuit, a **full adder was first designed and simulated using NI Multisim**.
+
+The simulation demonstrates the correct operation of:
+
+- Sum output: S = A ⊕ B ⊕ Cin
+- Carry output: Cout = AB + ACin + BCin
+
+The Multisim file included in this repository contains the transistor-level implementation used to validate the design before assembling the discrete hardware circuit.
+
+### File
+
+```
+full_adder_multisim.ms14
+```
+
+You can open this file using **NI Multisim** to view and run the simulation.
 ## Project Highlights
 
 - 3-bit ripple carry adder
