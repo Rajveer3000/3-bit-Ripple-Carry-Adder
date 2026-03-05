@@ -8,6 +8,11 @@ The objective of this project was to understand **digital logic at the device le
 This hands-on implementation demonstrates how **complex arithmetic circuits can be built from basic transistor-level logic.**
 
 ---
+## Project Images
+
+### Complete Circuit
+
+![3 Bit NMOS Adder](photo_2026-03-05_20-44-48.jpg)
 
 ## Project Highlights
 
