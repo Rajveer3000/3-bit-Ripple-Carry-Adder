@@ -10,9 +10,13 @@ This hands-on implementation demonstrates how **complex arithmetic circuits can 
 ---
 ## Project Images
 
-### Complete Circuit
+### Circuit Setup
 
-![3 Bit NMOS Adder](photo_2026-03-05_20-44-48.jpg)
+![Circuit](photo_2026-03-05_20-44-48.jpg)
+
+### Wiring Layout
+
+![Wiring](photo_2026-03-05_20-44-49.jpg)
 
 ## Project Highlights
 
